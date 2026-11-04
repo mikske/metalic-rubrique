@@ -1,5 +1,32 @@
+# macOS
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# RubyMine
+.idea/
+
+# Данные и векторы (тяжёлые, лежат отдельно)
 data/
 *.vec
 *.bin
-.idea/
-.DS_Store
+*.jsonl
+
+# Ruby
+/.bundle/
+/vendor/bundle/
+*.gem
+
+# Скомпилированное C-ядро (пригодится на 2-м этапе)
+*.o
+*.so
+*.bundle
+*.dylib
+/tmp/
+
+# Результаты обучения
+checkpoints/
+logs/
+*.log
