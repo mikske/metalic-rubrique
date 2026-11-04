@@ -1,5 +1,3 @@
-"""Сохраняем все пути в одном месте"
-
 module Rubrique
   module Config
     DATA_ROOT = '/Volumes/Extreme SSD/vkr_rusage'
