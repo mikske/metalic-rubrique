@@ -24,8 +24,7 @@ Pure Ruby TextCNN (Numo::NArray) replicates my [master's thesis](https://github.
 - Tokenizer: identical token counts on all 31,413 chunks
 
 ## Roadmap
-        <-------- We're here currently
-- [ ] Pure Ruby TextCNN (Numo::NArray) 
+- [ ] Pure Ruby TextCNN (Numo::NArray)         <-------- We're here currently
 - [ ] C kernel for convolution
 - [ ] Metal GPU backend
 - [ ] Benchmarks vs PyTorch
